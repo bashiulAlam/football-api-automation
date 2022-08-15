@@ -4,7 +4,6 @@ com/assignment/endtoendtest/endpoints/FootballEndPoints.java
  com.assignment.endtoendtest.endpoints.FootballEndPoints
 com/assignment/endtoendtest/utils/Constants.java
  com.assignment.endtoendtest.utils.Constants
- com.assignment.endtoendtest.utils.Constants$AppToken
 com/assignment/endtoendtest/utils/HeaderBuilder.java
  com.assignment.endtoendtest.utils.HeaderBuilder
 com/assignment/endtoendtest/utils/Utils.java
