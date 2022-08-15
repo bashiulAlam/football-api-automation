@@ -37,7 +37,7 @@ This project automates a couple of APIs hsted in [Football API Collection](https
 
 ## How to Run
 - You can run the project from your IDE by following the steps:
-    1. Open the java class **APITestSpec.groovy** from the path: *src/test/groovy/com/assignment/endtoendtest/specification/*
+    1. Open the groovy class **APITestSpec.groovy** from the path: *src/test/groovy/com/assignment/endtoendtest/specification/*
     2. Run this class
 - You can run the project from command prompt or terminal by executing the following command from your *{project_root}*:
 
