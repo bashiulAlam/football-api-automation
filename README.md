@@ -1,6 +1,6 @@
 # API Automation Task #
 
-This project automates a couple of APIs hsted in [Football API Collection](https://www.football-data.org/)
+This project automates a couple of APIs hosted in [Football API Collection](https://www.football-data.org/)
 ***
 
 ## Project Tools Used
