@@ -4,5 +4,6 @@ orbs:
 workflows:
   gradle_test:
     jobs:
-      - gradle/test:
-          executor: ./gradlew test
+      - run:
+          name: Test
+          command: ./gradlew test
