@@ -2,6 +2,7 @@ version: '2.1'
 orbs:
   gradle: circleci/gradle@3.0.0
 workflows:
-  checkout-build-test:
+  gradle_test:
     jobs:
-      - ./gradlew test
+      - gradle/test:
+          executor: ./gradlew test
